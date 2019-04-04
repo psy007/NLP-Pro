@@ -1,6 +1,6 @@
 """
 Stop Words are commonly used word
-stop word filtration for removing stop words
+stop word filtration for removing stop  words
 """
 
 from nltk.corpus import stopwords
